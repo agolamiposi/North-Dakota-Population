@@ -5,7 +5,7 @@ All analysis was done by Olamiposi Agboola.
 The datasets and Jupyter notebook used in the project is also included in this repository.
 
 **Introduction**
-This project was born out of curiousity due to an increasing population in North Dakota. I retrieved data set from ND state data center. The data set shows population for all cities in North dakota for Census 2000, 2010 and 2020. I used machine learning and artigial intelligence to to predict the population of north Dakota for 2025 and 2030 and confirm if there is going to be a rapid increase in population.
+This project was born out of curiousity due to an increasing population in North Dakota. I retrieved data set from ND state data center. The data set shows population for all cities in North dakota for Census 2000, 2010 and 2020. I used machine learning and artificial intelligence to to predict the population of north Dakota for 2025 and confirm if there is going to be a rapid increase in population across the major cities in North Dakota.
 
 <u>**Methodology**<u>
 
@@ -24,7 +24,7 @@ Keras: Keras is a high-level neural networks API that runs on top of TensorFlow 
 
 
 There is a projected rapid increase in population for at least 75% of the top 20 major cities in North Dakota.
-Fargo, West Fargo and Horace are expected to see huge increase in population form 2020 to 2025 and also 2025 to 2030.
+Fargo, West Fargo and Horace are expected to see huge increase in population form 2020 to 2025.
 Bismarck, Williston, Dickinson, Mandan and Watford city would see decrease in population in 2025
 
 
