@@ -30,6 +30,7 @@ Bismarck, Williston, Dickinson, Mandan and Watford city would see decrease in po
 
 ![image](https://github.com/agolamiposi/North-Dakota-Population/assets/90154869/a3f7e6c9-4d27-4314-ad7b-17b9d738fc88)
 
+![image](https://github.com/agolamiposi/North-Dakota-Population/assets/90154869/99ea741a-759d-41da-9640-e3b72ef70189)
 
 
 
