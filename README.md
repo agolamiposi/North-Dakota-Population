@@ -13,11 +13,17 @@ This project was born out of curiousity due to an increasing population in North
 **Python Libraries**
 The libraries used on this project include:
 Pandas –for data manipulation and analysis
+
 Numpy – For multi-dimensional array, matrix data structures and, performing mathematical operations
+
 Scikit learn – For Machine learning tasks
+
 Matplotlib: for creating various types of plots and visualizations, including line plots, scatter plots.
+
 Seaborn:for creating attractive and informative statistical graphics. 
+
 TensorFlow: TensorFlow is an open-source machine learning library. for building neural networks and other machine learning models.
+
 Keras: Keras is a high-level neural networks API that runs on top of TensorFlow Keras allows you to define neural network architectures using simple and intuitive building blocks.
 
 **Conclusion**
